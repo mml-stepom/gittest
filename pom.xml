@@ -7,6 +7,12 @@
     <groupId>com.mml</groupId>
     <artifactId>git-test</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>5.3.22</version>
+        </dependency>
+    </dependencies>
 
 </project>
